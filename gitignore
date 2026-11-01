@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.log
+*.user
+*.suo
+*.tlog
+*.vcxproj.user
+
+# Program output
+output_compressed.mp4
